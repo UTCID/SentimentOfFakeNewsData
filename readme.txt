@@ -1,4 +1,5 @@
-# SentimentOfFakeNewsData
+#SentimentOfFakeNewsData
+# 
 The code and data repository for the paper "Quantitatively Measuring the Correlation Between Negative Sentiment and Fake News"
 
 # Structure of this repository:
